@@ -1,11 +1,11 @@
 # account phone number
-account_phone: +790000000
+account_phone: +91 90253 09063
 
 # app info
 # see https://core.telegram.org/api/obtaining_api_id
 
-api_id: 00000
-api_hash: 00000000000000
+api_id: 25459774
+api_hash: 35bab14bad0a971f7a5dbb1347edfaed
 
 # parse messages delay in seconds
 delay: 5
